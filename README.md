@@ -1,6 +1,6 @@
 **Startup Funding Analysis**
 **Exploring Venture Capital Trends Across Industries & Countries**
-** Author: Assia Khader**
+**Author: Assia Khader**__
 
 **Project Overview**
 
@@ -16,8 +16,8 @@ Features: Industry, funding rounds, investment amount, valuation, country, year 
 * Python (Pandas, NumPy)
 * Matplotlib & Seaborn (Data Visualization)
 
-**📊 Key Insights from the Analysis
-1) Top Industries Receiving Startup Funding**
+**📊 Key Insights from the Analysis**
+1) Top Industries Receiving Startup Funding
 Biotechnology, Mobile, Software, and Healthcare lead in total investment.
 The rise of AI-driven solutions and medical technology fuels high investor interest.
 2) Country-Wise Startup Funding Trends
