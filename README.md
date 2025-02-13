@@ -1,4 +1,5 @@
 **Startup Funding Analysis**
+
 **Exploring Venture Capital Trends Across Industries & Countries**
 
 **Author: Assia Khader**
