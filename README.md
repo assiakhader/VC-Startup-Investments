@@ -1,10 +1,10 @@
-**Startup Funding Analysis**
+#**Startup Funding Analysis**
 
-**Exploring Venture Capital Trends Across Industries & Countries**
+#**Exploring Venture Capital Trends Across Industries & Countries**
 
-**Author: Assia Khader**
+#**Author: Assia Khader**
 
-**Project Overview**
+#**Project Overview**
 
 This project analyzes startup funding trends using real-world investment data. The goal is to explore which industries receive the most funding, how investment trends vary across countries, and how startup funding has evolved over time.
 
