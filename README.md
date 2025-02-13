@@ -9,8 +9,11 @@ This project analyzes startup funding trends using real-world investment data. T
 **📂 Data & Methodology**
 
 Dataset
+
 Source: Crunchbase/Kaggle
+
 Size: 5,000+ startup funding records
+
 Features: Industry, funding rounds, investment amount, valuation, country, year founded
 
 🛠 Tools & Libraries
