@@ -12,6 +12,7 @@ Dataset
 Source: Crunchbase/Kaggle
 Size: 5,000+ startup funding records
 Features: Industry, funding rounds, investment amount, valuation, country, year founded
+
 🛠 Tools & Libraries
 * Python (Pandas, NumPy)
 * Matplotlib & Seaborn (Data Visualization)
